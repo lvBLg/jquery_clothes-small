@@ -1,0 +1,181 @@
+/*   subscribe   */
+
+.subscribe {
+    margin-top: 200px;
+    padding: 205px 0 210px;
+    background: url("../img/subscribe-bg.jpg") no-repeat;
+}
+
+.subscribe .email {
+    text-align: center;
+    height: 158px;
+    color: #fff;
+}
+
+.subscribe .email h1 {
+    font-size: 28px;
+}
+
+.subscribe .email p {
+    color: #9b9b9c;
+    font-size: 14px;
+    margin: 10px 0 50px 0;
+}
+
+.subscribe .email input {
+    border: 0;
+    outline: 0;
+    color: #333;
+    font-size: 12px;
+    height: 36px;
+    width: 470px;
+    padding: 0 15px;
+}
+
+.subscribe .email a {
+    display: inline-block;
+    width: 100px;
+    height: 36px;
+    background-color: #272727;
+    vertical-align: top;
+    font-size: 14px;
+    line-height: 36px;
+    transition: all 0.3s;
+}
+
+.subscribe .email a:hover {
+    background-color: #e2214b;
+    color: #fff;
+}
+
+/*   brand  */
+
+.brand {
+    padding: 112px 0;
+}
+
+.brand .container {
+    position: relative;
+}
+
+.brand .text {
+    color: #212121;
+    font-size: 36px;
+    font-weight: bold;
+    margin-right: 150px;
+}
+
+.brand .brand-list {
+    width: 754px;
+    height: 86px;
+    overflow: hidden;
+    position: relative;
+}
+
+.brand .brand-list ul {
+    position: absolute;
+    left: -194px;
+    width: 800%;
+}
+
+.brand .brand-list li {
+    float: left;
+    margin-right: 24px;
+}
+
+.brand .brand-control {
+    position: absolute;
+    top: 25%;
+    width: 100%;
+}
+
+.brand .brand-control button {
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+}
+
+.brand .brand-control .next {
+    float: right;
+    margin-right: 50px;
+}
+
+.brand .brand-control .prev {
+    float: left;
+    margin-left: 220px;
+}
+
+.brand .brand-control i {
+    font-size: 30px;
+    color: #9b9b9c;
+}
+
+.brand .brand-control .icon-right {
+    font-size: 32px;
+}
+
+/*  footer  */
+
+.footer-top {
+    background-color: #272727;
+    padding: 64px 0;
+    color: #9b9b9c;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.footer-top li {
+    width: 25%;
+    float: left;
+}
+
+.footer-top p {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.footer-top h3 {
+    margin-bottom: 40px;
+}
+
+.footer-top .shop a, .footer-top .collection a {
+    display: block;
+    color: #9b9b9c;
+    font-size: 14px;
+    line-height: 30px;
+    transition: all 0.5s;
+    line-height: 24px;
+}
+
+.footer-top .shop a:hover, .footer-top .collection a:hover {
+    color: #e2214b;
+}
+
+.footer-top .logo i {
+    font-size: 28px;
+    margin-right: 50px;
+    line-height: 30px;
+    transition: all 0.5s;
+}
+
+.footer-top .logo i:hover {
+    color: #e2214b;
+}
+
+.footer-bottom {
+    padding: 24px 0;
+    background-color: #333;
+    font-size: 12px;
+    color: #9b9b9c;
+}
+
+.footer-bottom a {
+    font-size: 12px;
+    margin: 5px;
+    line-height: 30px;
+    transition: all 0.5s;
+}
+
+.footer-bottom a:hover {
+    color: #e2214b;
+}

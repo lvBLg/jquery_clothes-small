@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow-x: hidden;
+    background-color: #efefef;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 12px;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+img {
+    vertical-align: center;
+}
+
+.header {
+    background-color: #272727;
+    height: 30px;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.container-fluid {
+    width: 100%;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.clearfix::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.table-row {
+    width: 100%;
+    border-bottom: 1px solid #ebebeb;
+}
+
+.table-row::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.table-cell {
+    float: left;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.table-cell[class*='col-4'] {
+    width: 40%;
+}
+
+.table-cell[class*='col-1'] {
+    width: 15%;
+}
+
+.table-cell[class*='col-3'] {
+    width: 30%;
+}
+
+.table-cell[class*='col-6'] {
+    width: 60%;
+}
+
+.table-cell[class*='col-5'] {
+    width: 50%;
+}
+
+.table-cell[class*='col-25'] {
+    width: 25%;
+}
