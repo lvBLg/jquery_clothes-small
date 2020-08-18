@@ -1,0 +1,109 @@
+.wish-list {
+	margin: 70px;
+}
+
+.wish-list .container {
+	padding: 56px;
+	background-color: #fff;
+}
+
+.wish-list h1 {
+	color: #272727;
+	font-size: 28px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.wish-list .list-head {
+	border-bottom: 1px solid #ebebeb;
+	margin-top: 50px;
+}
+
+.wish-list .list-head div {
+	color: #272727;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 6px;
+	text-transform: uppercase;
+}
+
+.wish-list .list-head .items {
+	margin-left: 150px;
+}
+
+.wish-list .list-head .price {
+	margin-left: 430px;
+}
+
+.wish-list .list-head .status {
+	margin-left: 80px;
+}
+
+.wish-list .wishs li {
+	border-bottom: 1px solid #ebebeb;
+}
+
+.wish-list .wishs .remove {
+	padding: 85px 0;
+	width: 110px;
+	color: #333;
+	text-align: center;
+}
+
+.wish-list .wishs .img {
+	padding: 35px 15px;
+}
+
+.wish-list .wishs .info {
+	width: 100px;
+	margin-left: 20px;
+	padding: 60px 0;
+}
+
+.wish-list .wishs .info h2 {
+	color: #272727;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 18px;
+}
+.wish-list .wishs .info p {
+	color: #9b9b9c;
+	font-size: 12px;
+	margin: 5px 0;
+}
+
+.wish-list .wishs .info p span {
+	font-weight: 700;
+}
+
+.wish-list .wishs .price {
+	padding: 86px 0;
+	margin-left: 280px;
+	color: #9b9b9c;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.wish-list .wishs .status {
+	padding: 86px 0;
+	color: #9b9b9c;
+	font-size: 18px;
+	font-weight: bold;
+	margin-left: 100px;
+}
+
+.wish-list .wishs .add {
+	display: inline-block;
+	background-color: #272727;
+	color: #fff;
+	line-height: 34px;
+	width: 125px;
+	text-align: center;
+	margin: 80px 0 80px 100px;
+	transition: all 0.3s;
+}
+
+.wish-list .wishs .add:hover {
+	background-color: #db2559;
+}

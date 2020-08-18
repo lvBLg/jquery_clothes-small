@@ -1,0 +1,15 @@
+.page-content {
+    margin: 80px 0;
+}
+
+.page-content .text {
+    width: 750px;
+    margin: 0 auto;
+}
+
+.page-content p {
+    font-size: 14px;
+    color: #9b9b9c;
+    line-height: 30px;
+    margin-bottom: 20px;
+}

@@ -69,6 +69,13 @@
       "unicode_decimal": 58965
     },
     {
+      "icon_id": "1261896",
+      "name": "list",
+      "font_class": "list",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    },
+    {
       "icon_id": "1321311",
       "name": "eye",
       "font_class": "eye",
@@ -97,11 +104,25 @@
       "unicode_decimal": 58905
     },
     {
+      "icon_id": "5858547",
+      "name": "选中",
+      "font_class": "xuanzhong",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
       "icon_id": "7141567",
       "name": "twitter",
       "font_class": "twitter",
       "unicode": "e622",
       "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "7596170",
+      "name": "Grid",
+      "font_class": "Grid",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
     },
     {
       "icon_id": "8332383",

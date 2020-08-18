@@ -3,7 +3,7 @@
 .subscribe {
     margin-top: 200px;
     padding: 205px 0 210px;
-    background: url("../img/subscribe-bg.jpg") no-repeat;
+    background: url("../img/subscribe-bg.jpg") no-repeat center;
 }
 
 .subscribe .email {
